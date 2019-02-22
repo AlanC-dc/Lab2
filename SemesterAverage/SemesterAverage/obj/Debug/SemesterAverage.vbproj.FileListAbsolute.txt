@@ -1,0 +1,11 @@
+D:\Documents\School\NetDev\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.exe.config
+D:\Documents\School\NetDev\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.vbprojResolveAssemblyReference.cache
+D:\Documents\School\NetDev\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.frmSemesterAverage.resources
+D:\Documents\School\NetDev\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.Resources.resources
+D:\Documents\School\NetDev\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.vbproj.GenerateResource.Cache
+D:\Documents\School\NetDev\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.xml
+D:\Documents\School\NetDev\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.exe
+D:\Documents\School\NetDev\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.pdb
+D:\Documents\School\NetDev\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.xml
+D:\Documents\School\NetDev\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.exe
+D:\Documents\School\NetDev\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.pdb

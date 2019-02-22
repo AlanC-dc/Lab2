@@ -1,0 +1,109 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SemesterAverage
+</name>
+</assembly>
+<members>
+<member name="T:SemesterAverage.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SemesterAverage.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SemesterAverage.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:SemesterAverage.frmSemesterAverage.validation(System.String)">
+ <summary>
+ This function will check if a user's input if valid and return True or False
+ </summary>
+ <param name="input"></param>
+ <returns></returns>
+</member>
+<member name="M:SemesterAverage.frmSemesterAverage.letterConversion(System.Double)">
+ <summary>
+ This function will convert the user's grade input to it's appropriate letter grade
+ </summary>
+ <param name="userInput"></param>
+ <returns></returns>
+</member>
+<member name="M:SemesterAverage.frmSemesterAverage.txtGrade1_Leave(System.Object,System.EventArgs)">
+ <summary>
+ Once the user tabs away from the textbox, run validation on the input and return focus to the textbox if validation fails.
+ If it succeeds then convert the number to a letter grade.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.frmSemesterAverage.txtGrade2_Leave(System.Object,System.EventArgs)">
+ <summary>
+ Once the user tabs away from the textbox, run validation on the input and return focus to the textbox if validation fails.
+ If it succeeds then convert the number to a letter grade.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.frmSemesterAverage.txtGrade3_Leave(System.Object,System.EventArgs)">
+ <summary>
+ Once the user tabs away from the textbox, run validation on the input and return focus to the textbox if validation fails.
+ If it succeeds then convert the number to a letter grade.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.frmSemesterAverage.txtGrade4_Leave(System.Object,System.EventArgs)">
+ <summary>
+ Once the user tabs away from the textbox, run validation on the input and return focus to the textbox if validation fails.
+ If it succeeds then convert the number to a letter grade.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.frmSemesterAverage.txtGrade5_Leave(System.Object,System.EventArgs)">
+ <summary>
+ Once the user tabs away from the textbox, run validation on the input and return focus to the textbox if validation fails.
+ If it succeeds then convert the number to a letter grade.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.frmSemesterAverage.txtGrade6_Leave(System.Object,System.EventArgs)">
+ <summary>
+ Once the user tabs away from the textbox, run validation on the input and return focus to the textbox if validation fails.
+ If it succeeds then convert the number to a letter grade.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.frmSemesterAverage.btnCalculate_Click(System.Object,System.EventArgs)">
+ <summary>
+ Assign all textbox inputs to an array, sum the array with a loop and then calculate the average
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.frmSemesterAverage.btnReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ Reset all forms
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.frmSemesterAverage.btnExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ This will close the application
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
